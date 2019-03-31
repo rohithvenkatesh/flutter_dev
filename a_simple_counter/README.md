@@ -1,8 +1,6 @@
 # a_simple_counter
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- a simple counter app that has buttons to incremement the counter and reset it to 0.
+- learnt/practiced
+  - States (Stateful vs Stateless widgets)
+  - Scaffold (displaying the information)
