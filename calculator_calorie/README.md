@@ -1,8 +1,9 @@
-# calculator_calorie
+# calorie_calculator
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- simple calorie calculator app that calculates the user's TDEE given data
+- learnt/practiced:
+  - Classes (separate functionality by classes for cleaner code)
+  - Controllers (TextEditingController)
+  - Handling several states at a time
+  - Displaying information coherently to the user
+  
