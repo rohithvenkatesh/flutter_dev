@@ -1,8 +1,8 @@
 # login_page
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- a sample login page that allows the user to input information and store it
+- learned/practiced:
+  - States (Stateful vs Stateless)
+  - Controllers (TextEditingController)
+  - Styling/ Arranging (UI)
+  - Accessing information
