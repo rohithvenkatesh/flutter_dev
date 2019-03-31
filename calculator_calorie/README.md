@@ -1,4 +1,4 @@
-# calculator_calorie
+# calorie_calculator
 
 - simple calorie calculator app that calculates the user's TDEE given data
 - learnt/practiced:
