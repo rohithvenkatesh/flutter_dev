@@ -1,8 +1,7 @@
 # json_parser
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- json parser that gets information from a json file from an URL and displays it to the user.
+- practiced/learned
+  - async/ Future (proper order of execution of events)
+  - http response/ json decode (getting the json file + parsing it)
+  - ListView.builder (UI)
